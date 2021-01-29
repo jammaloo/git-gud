@@ -14,7 +14,7 @@ theme: sudodoki/reveal-cleaver-theme
 
 --
 
-<img src="git-gud.png" style="height: 70vh;">
+<img src="git-gud.png">
 
 --
 
@@ -58,7 +58,7 @@ hint: as appropriate to mark resolution and make a commit.
 
 --
 
-<img src="same.png" style="width: 60vw;">
+<img src="same.png">
 
 --
 
@@ -179,6 +179,6 @@ Want to know when a test started failing?
 
 ### To be continued?
 
-<img src="git-rekt.jpg" style="height: 50vh;">
+<img src="git-rekt.jpg">
 
 --
